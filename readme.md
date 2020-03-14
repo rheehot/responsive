@@ -12,3 +12,7 @@
   - 리워드 영역 반응형 제작 [영상보기](https://youtu.be/2IMKc8aYph8)
 ***
 > 반응형웹 콘텐츠는 수시로 업데이트 되고 있습니다.
+
+
+##blog
+https://blog.naver.com/rebehayan/221851531325
